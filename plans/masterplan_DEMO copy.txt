@@ -1,0 +1,42 @@
+Disassembly_Machine | ACTIVATE | avvitatore
+Disassembly_Machine | MOVE | z , 230.0
+Disassembly_Machine | WAIT | 5
+
+Disassembly_Machine | MOVE | z , 330.0
+Disassembly_Machine | WAIT | 3
+Disassembly_Machine | MOVE | z , 230.0
+Disassembly_Machine | MOVE | c , 90.0
+
+Disassembly_Machine | MOVE | z , 330.0
+Disassembly_Machine | WAIT | 3
+Disassembly_Machine | MOVE | z , 230.0
+Disassembly_Machine | MOVE | c , 180.0
+
+Disassembly_Machine | MOVE | z , 330.0
+Disassembly_Machine | WAIT | 3
+Disassembly_Machine | MOVE | z , 230.0
+Disassembly_Machine | MOVE | c , 270.0
+
+Disassembly_Machine | MOVE | z , 330.0
+Disassembly_Machine | WAIT | 3
+Disassembly_Machine | MOVE | z , 230.0
+Disassembly_Machine | MOVE | c , 360.0
+
+Disassembly_Machine | MOVE | z , 330.0
+Disassembly_Machine | WAIT | 3
+Disassembly_Machine | MOVE | z , 230.0
+Disassembly_Machine | MOVE | c , 0.0
+
+Disassembly_Machine | MOVE | z , 0.0
+Disassembly_Machine | DEACTIVATE | avvitatore
+
+Disassembly_Machine | MOVE | y , 250.0
+Disassembly_Machine | MOVE | x , 1111.0
+
+Disassembly_Machine | MOVE | prs , 500.0
+Disassembly_Machine | MOVE | prs , 200.0
+Disassembly_Machine | MOVE | x , 488.0
+Disassembly_Machine | MOVE | y , 250.0
+Disassembly_Machine | DISENGAGE | barrier_back
+Disassembly_Machine | MOVE | x , 1999.0
+Disassembly_Machine | ENGAGE | barrier_back

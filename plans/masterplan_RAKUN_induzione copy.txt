@@ -1,0 +1,4 @@
+
+Disassembly_Machine | SET_PARAMS | x , 10.0, 50.0, 50.0
+Disassembly_Machine | MOVE | y , 28.0
+Disassembly_Machine | MOVE | x , 365.0

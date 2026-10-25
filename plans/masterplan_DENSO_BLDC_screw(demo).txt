@@ -1,0 +1,37 @@
+Disassembly_Machine | SET_PARAMS | y , 100.0, 20.0, 20.0
+Disassembly_Machine | MOVE | y , 337.9
+Disassembly_Machine | SET_PARAMS | x , 100.0, 20.0, 20.0
+Disassembly_Machine | MOVE | x , 411.4
+
+Disassembly_Machine | ACTIVATE | avvitatore
+Disassembly_Machine | SET_PARAMS | z , 100.0, 70.0, 70.0
+Disassembly_Machine | MOVE | z , 530.0
+Disassembly_Machine | SET_PARAMS | z , 20.0, 20.0, 20.0
+Disassembly_Machine | MOVE | z , 571.6
+Disassembly_Machine | WAIT | 15
+
+Disassembly_Machine | SET_PARAMS | z , 100.0, 70.0, 70.0
+Disassembly_Machine | MOVE | z , 530.0
+Disassembly_Machine | MOVE | y , 250.3
+Disassembly_Machine | MOVE | x , 458.3
+Disassembly_Machine | SET_PARAMS | z , 20.0, 20.0, 20.0
+Disassembly_Machine | MOVE | z , 571.6
+Disassembly_Machine | WAIT | 15
+
+Disassembly_Machine | SET_PARAMS | z , 100.0, 70.0, 70.0
+Disassembly_Machine | MOVE | z , 530.0
+Disassembly_Machine | MOVE | y , 250.3
+Disassembly_Machine | MOVE | x , 363.3
+Disassembly_Machine | SET_PARAMS | z , 20.0, 20.0, 20.0
+Disassembly_Machine | MOVE | z , 571.6
+Disassembly_Machine | WAIT | 15
+
+
+Disassembly_Machine | SET_PARAMS | z , 100.0, 70.0, 70.0
+Disassembly_Machine | MOVE | z , 0.0
+Disassembly_Machine | SET_PARAMS | y , 100.0, 50.0, 50.0
+Disassembly_Machine | MOVE | y , 270.0
+Disassembly_Machine | DISENGAGE | barrier_back
+Disassembly_Machine | SET_PARAMS | x , 100.0, 50.0, 50.0
+Disassembly_Machine | MOVE | x , 2000.0
+Disassembly_Machine | ENGAGE | barrier_back

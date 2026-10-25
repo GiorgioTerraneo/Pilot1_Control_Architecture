@@ -1,0 +1,18 @@
+
+
+Disassembly_Machine | SET_PARAMS | prs , 1000.0, 200.0, 200.0
+Disassembly_Machine | SET_PARAMS | x , 150.0, 20.0, 20.0
+Disassembly_Machine | SET_PARAMS | y , 150.0, 20.0, 20.0
+
+Disassembly_Machine | MOVE | prs , 300.0
+Disassembly_Machine | MOVE | y , 267.4
+Disassembly_Machine | MOVE | x , 1110.2
+Disassembly_Machine | MOVE | prs , 430.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 50.0, 50.0
+Disassembly_Machine | WAIT | 2
+Disassembly_Machine | MOVE | prs , 542.0
+Disassembly_Machine | WAIT | 2
+Disassembly_Machine | SET_PARAMS | prs , 500.0, 50.0, 50.0
+Disassembly_Machine | MOVE | prs , 430.0
+Disassembly_Machine | MOVE | x , 300.0
+Disassembly_Machine | MOVE | y , 541.0

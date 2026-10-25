@@ -1,0 +1,5 @@
+
+Disassembly_Machine | RUN_FILE | C:\Users\LabMo\Documents\OPCUA\OPCUA_Control_Architecture\plans\subplan_Disassembly_Machine_example.txt
+Disassembly_Machine | WAIT | 1.0
+Disassembly_Machine | MOVE | y , 200.0
+Disassembly_Machine | DEACTIVATE | avvitatore

@@ -1,0 +1,68 @@
+
+
+Disassembly_Machine | SET_PARAMS | prs , 500.0, 100.0, 100.0
+Disassembly_Machine | SET_PARAMS | x , 150.0, 50.0, 50.0
+Disassembly_Machine | SET_PARAMS | y , 150.0, 50.0, 50.0
+Disassembly_Machine | SET_PARAMS | c , 150.0, 25.0, 25.0
+
+Disassembly_Machine | MOVE | prs , 400.0
+Disassembly_Machine | MOVE | c , 0.0
+Disassembly_Machine | MOVE | y , 268.03
+# Disassembly_Machine | MOVE | x , 1150.4
+Disassembly_Machine | MOVE | x , 700.0
+Disassembly_Machine | MOVE | c , 22.5
+Disassembly_Machine | MOVE | prs , 512.0
+
+Disassembly_Machine | WAIT | 2
+
+Disassembly_Machine | SET_PARAMS | prs , 300, 75.0, 75.0
+Disassembly_Machine | MOVE | prs , 580.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 100.0, 100.0
+Disassembly_Machine | MOVE | prs , 512.0
+Disassembly_Machine | MOVE | c , 67.5
+
+Disassembly_Machine | SET_PARAMS | prs , 300, 75.0, 75.0
+Disassembly_Machine | MOVE | prs , 580.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 100.0, 100.0
+Disassembly_Machine | MOVE | prs , 512.0
+Disassembly_Machine | MOVE | c , 112.5
+
+Disassembly_Machine | SET_PARAMS | prs , 300, 75.0, 75.0
+Disassembly_Machine | MOVE | prs , 580.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 100.0, 100.0
+Disassembly_Machine | MOVE | prs , 512.0
+Disassembly_Machine | MOVE | c , 157.5
+
+Disassembly_Machine | SET_PARAMS | prs , 300, 75.0, 75.0
+Disassembly_Machine | MOVE | prs , 580.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 100.0, 100.0
+Disassembly_Machine | MOVE | prs , 512.0
+Disassembly_Machine | MOVE | c , 202.5
+
+Disassembly_Machine | SET_PARAMS | prs , 300, 75.0, 75.0
+Disassembly_Machine | MOVE | prs , 580.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 100.0, 100.0
+Disassembly_Machine | MOVE | prs , 512.0
+Disassembly_Machine | MOVE | c , 247.5
+
+Disassembly_Machine | SET_PARAMS | prs , 300, 75.0, 75.0
+Disassembly_Machine | MOVE | prs , 580.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 100.0, 100.0
+Disassembly_Machine | MOVE | prs , 512.0
+Disassembly_Machine | MOVE | c , 292.5
+
+Disassembly_Machine | SET_PARAMS | prs , 300, 75.0, 75.0
+Disassembly_Machine | MOVE | prs , 580.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 100.0, 100.0
+Disassembly_Machine | MOVE | prs , 512.0
+Disassembly_Machine | MOVE | c , 337.5
+
+Disassembly_Machine | SET_PARAMS | prs , 300, 75.0, 75.0
+Disassembly_Machine | MOVE | prs , 580.0
+Disassembly_Machine | SET_PARAMS | prs , 500, 100.0, 100.0
+Disassembly_Machine | MOVE | prs , 512.0
+Disassembly_Machine | MOVE | c , 382.5
+
+Disassembly_Machine | MOVE | x , 300.0
+Disassembly_Machine | MOVE | c , 90.0
+Disassembly_Machine | MOVE | y , 539.0

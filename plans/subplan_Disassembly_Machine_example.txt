@@ -1,0 +1,7 @@
+
+SET_PARAMS | x , 100.0, 50.0, 50.0
+MOVE | x , 700.0
+WAIT | 2.0
+MOVE | y , 300.0
+ACTIVATE | avvitatore
+MOVE | x , 500.0

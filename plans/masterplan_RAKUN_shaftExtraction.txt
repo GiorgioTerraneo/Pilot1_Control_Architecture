@@ -1,0 +1,7 @@
+
+Disassembly_Machine | SET_PARAMS | x , 150.0, 100.0, 100.0
+Disassembly_Machine | SET_PARAMS | y , 150.0, 100.0, 100.0
+Disassembly_Machine | SET_PARAMS | prs , 500.0, 250.0, 250.0
+Disassembly_Machine | MOVE | prs , 250.0
+Disassembly_Machine | MOVE | y , 270.0
+Disassembly_Machine | MOVE | x , 1111.0
